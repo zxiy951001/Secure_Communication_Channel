@@ -14,6 +14,7 @@ SHA-1 HASH SOURCE CODE:
 
 http://www.anyexample.com/programming/java/java_simple_class_to_compute_md5_hash.xml
 
+=========================================================================================================
 
 STEP 1: (IMPORTANT)
 
@@ -26,6 +27,7 @@ CHANGE WRITE DIRECTORY OF CLIENT TEXT FILE:
    TO	       :File destinationFile = new File("/YOURPATH/Bob/Client.txt");
 
 
+=========================================================================================================
 
 STEP 2:
 
@@ -42,7 +44,8 @@ RUN GEN FILE.
    3: NAVIGATE TO ALICE'S DIRECTORY AND OPEN UP HOST.TXT AND REMOVE THE LAST LINE(SHARED KEY).
 
    4: REPEAT STEP 2.
-
+   
+=========================================================================================================
 STEP 3:
 
 RUN HOST FILE.
@@ -50,6 +53,8 @@ RUN HOST FILE.
    ----> $ cd /yourpathfile/Alice
    
    ----> $ java host
+   
+=========================================================================================================
 
 STEP 4:
 
