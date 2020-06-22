@@ -3,7 +3,8 @@ Program allowing two parties to establish a secure communication channel
 
 READ ME:
 =========================================================================================================
-REFERENCE/SOURCE:
+** View readme in RAW view
+REFERENCE/SOURCE: 
 
 ENCRYPTION/DECRYPTION SOURCE CODE: https://stackoverflow.com/questions/12289717/rc4-encryption-java
 
