@@ -4,6 +4,8 @@ Program allowing two parties to establish a secure communication channel
 READ ME:
 =========================================================================================================
 ** readme file can be found in "secure_communication_channel" folder
+
+
 REFERENCE/SOURCE: 
 
 ENCRYPTION/DECRYPTION SOURCE CODE: https://stackoverflow.com/questions/12289717/rc4-encryption-java
