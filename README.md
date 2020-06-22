@@ -1,7 +1,7 @@
 # Secure_Communication_Channel
 Program allowing two parties to establish a secure communication channel
 
-READ ME:
+READ ME::
 =========================================================================================================
 REFERENCE/SOURCE:
 
