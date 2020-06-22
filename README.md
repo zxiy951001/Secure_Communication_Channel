@@ -11,8 +11,7 @@ SHA-1 HASH SOURCE CODE:
 http://www.anyexample.com/programming/java/java_simple_class_to_compute_md5_hash.xml
 
 
-=========================================================================================================
-STEP 1: (IMPORTANT)
+STEP 1: 
 CHANGE WRITE DIRECTORY OF CLIENT TEXT FILE:
 1: OPEN UP GEN.JAVA
 2: CHANGE FROM :File destinationFile = new File("/home/vmw_ubuntu/Desktop/Assn1/Bob/Client.txt");
