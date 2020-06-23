@@ -16,7 +16,6 @@ Alice/Host stores the password in the hashed form (i.e., H(PW) where H denotes t
 
 
 # READ ME:
-=========================================================================================================
 
 **readme file can be found under "Secure_Communication_Channel" Folder
 
